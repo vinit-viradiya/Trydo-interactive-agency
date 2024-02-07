@@ -1,0 +1,6 @@
+header {
+    position: absolute;
+    width: 100%;
+    color: #c6c9d8;
+    z-index: 100000;
+}
