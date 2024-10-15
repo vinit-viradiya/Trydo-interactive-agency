@@ -1,9 +1,0 @@
-.brands img{
-  opacity: .7;
-  transition: .3s;
-  cursor: pointer;
-}
-.brands img:hover{
-  transform: scale(1.1);
-    opacity: 1;
-}
